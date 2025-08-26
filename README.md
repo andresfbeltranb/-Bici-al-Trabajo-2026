@@ -8,6 +8,7 @@ Integrantes: Camila Herrera - Marlon Torres
 Asignación de Tareas para el Líder: Pregunta 1 y Unir los puntos del taller
 
 Asignación de Tareas Camila Herrera: Preguntas 2 y 3
+
 Asignación de Tareas Marlon Torres: Preguntas 4 y 5
 
 La operadora de bicicletas públicas quiere lanzar el programa Bici al Trabajo 2026. La meta interna es garantizar al menos 4.500 viajes diarios en días laborales sin deteriorar la experiencia del usuario. Para decidir presupuesto (más estaciones, reubicación y personal), piden un análisis exploratorio riguroso con el histórico Capital Bikeshare 2011–2012 (day.csv).
